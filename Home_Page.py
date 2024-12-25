@@ -17,9 +17,10 @@ st.header("Each Page is a Different Tool For The Clean Plate Club")
 st.write("""
 You can navigate between the pages using the sidebar to the left. The following pages are:
 
-1. Serving Quantity Calculator
+1. Meal Prep Scheduler
 2. Measurement Conversions
-3. Meal Prep Scheduler
+3. Serving Quantity Calculator
+
 
 """)
 
